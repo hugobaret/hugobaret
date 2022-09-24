@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BARET Hugo</h1>
+![Header](./github-header-image.png)
 <h3 align="center">A passionate IT Student at EPITECH Reunion.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugobaret" alt="hugobaret" /></a> </p>
