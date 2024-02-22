@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./resource/github-header-image.png)
 <h3 align="center">A passionate IT Student at EPITECH Reunion.</h3>
 
 - 📫 How to reach me **hugo.baret@epitech.eu**
@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugobaret&theme=dark" alt="hugobaret" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugobaret" alt="hugobaret" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugobaret&rank=-C,-B,-?" alt="hugobaret" /></a> </p>
