@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=.2rem&duration=1500&pause=10&center=true&vCenter=true&multiline=true&random=false&width=435&height=70&lines=I'm+BARET+Hugo%2C+an+aspiring+IT+professional;+;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&letterSpacing=.2rem&duration=1500&pause=10&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=I'm+BARET+Hugo%2C+an+aspiring+IT+professional;+;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -22,9 +22,8 @@ Feel free to check out my repositories and get in touch!
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/62c0a851-43f5-45be-9518-e29113d1ccf8.svg" alt="hugobaret" />
+  <img src="https://wakatime.com/share/@dbh974/aa5ec9f0-f646-49a0-85fe-9b77f394bcbb.svg" alt="C"/>
 </p>
-
-![Wakatime Graph](https://wakatime.com/share/@dbh974/aa5ec9f0-f646-49a0-85fe-9b77f394bcbb.svg)
 
 <div align="center">
   <img src="https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=JetBrains&logoColor=white" alt="JetBrains"/>
