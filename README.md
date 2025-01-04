@@ -60,18 +60,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugobaret&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobaret&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugobaret&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hugobaret&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <p align="center" style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hugobaret&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="100"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobaret&layout=compact&theme=tokyonight" alt="Top Languages" height="100"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugobaret&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  </p>
 </div>
 
 ## 📈 Contribution Graph
