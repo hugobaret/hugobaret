@@ -61,8 +61,8 @@
 
 <div align="center">
   <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hugobaret&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="100"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobaret&layout=compact&theme=tokyonight" alt="Top Languages" height="100"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hugobaret&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobaret&layout=compact&theme=tokyonight" alt="Top Languages" height="120"/>
   </p>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugobaret&theme=tokyonight" alt="GitHub Streak" height="150"/>
