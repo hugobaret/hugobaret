@@ -69,6 +69,12 @@
   </p>
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hugobaret&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+</div>
+
 ## 📈 Contribution Graph
 
 <div align="center">
