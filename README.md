@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hugo+Baret;Software+Engineering+Student+@EPITECH;Game+%26+Web+Development+Enthusiast;Always+learning+new+things" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hugo+Baret;Software+Engineering+Graduate+@EPITECH;Game+%26+Web+Development+Enthusiast;Always+learning+new+things" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -13,49 +13,27 @@
 
 ## 🚀 About Me
 
-- 🎓 5th-year student at **EPITECH Paris**
+- 🎓 Graduate of **EPITECH Paris**
 - 🎮 Passionate about **Game Development**
-- 💻 Full Stack Web Developer
-- 🌱 Currently learning **FastApi** and **DevOps**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, Angular, NestJS, or Game Development**
+- 💻 Full Stack Developer
+- 🌱 Currently learning **SolidStart** and **Java**
+- 💼 Looking for a **Job Opportunity**
+- 💬 Ask me about **Python, NestJS, or Game Development**
 
 ## 🛠️ Tech Stack
 
-<details>
-<summary>Languages</summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,typescript,javascript,python" />
-</div>
-</details>
-
-<details>
-<summary>Frontend</summary>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,solidjs,html,css,sass" />
-</div>
-</details>
-
-<details>
-<summary>Backend</summary>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs" />
-</div>
-</details>
-
-<details>
-<summary>Game Development</summary>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,godot" />
-</div>
-</details>
-
-<details>
-<summary>Tools & Others</summary>
-<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python" />
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=solidjs,html,css" />
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,postgres" />
+  <h3>Game Development</h3>
+  <img src="https://skillicons.dev/icons?i=godot" />
+  <h3>Tools & Others</h3>
   <img src="https://skillicons.dev/icons?i=git,github,docker,windows,linux,vscode,idea" />
 </div>
-</details>
 
 ## 📊 GitHub Stats
 
