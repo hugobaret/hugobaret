@@ -1,8 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://gh.hugobaret.re?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hugo+Baret;Software+Engineering+Graduate+@EPITECH;Game+%26+Web+Development+Enthusiast;Always+learning+new+things" alt="Typing SVG"/>
+    <img src="https://gh.hugobaret.re?https://gh.hugobaret.re/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Hugo%20Baret%3BSoftware%20Engineering%20Graduate%20%40EPITECH%3BGame%20%26%20Web%20Development%20Enthusiast%3BAlways%20learning%20new%20things" alt="Typing SVG"/>
   </a>
 </div>
+
+
 
 <div align="center">
   <a href="https://wakatime.com/@62c0a851-43f5-45be-9518-e29113d1ccf8"><img src="https://wakatime.com/badge/user/62c0a851-43f5-45be-9518-e29113d1ccf8.svg" alt="Total time coded since Jun 11 2022" /></a>
