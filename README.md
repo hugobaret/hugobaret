@@ -4,8 +4,6 @@
   </a>
 </div>
 
-
-
 <div align="center">
   <a href="https://wakatime.com/@62c0a851-43f5-45be-9518-e29113d1ccf8"><img src="https://wakatime.com/badge/user/62c0a851-43f5-45be-9518-e29113d1ccf8.svg" alt="Total time coded since Jun 11 2022" /></a>
   <img src="https://komarev.com/ghpvc/?username=hugobaret&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
