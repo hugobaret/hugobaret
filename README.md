@@ -39,11 +39,11 @@
 
 <div align="center">
   <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hugobaret&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+    <img src="https://gh.hugobaret.re/stats/api?username=hugobaret&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
     <img src="https://gh.hugobaret.re/streak?user=hugobaret&theme=tokyonight" alt="GitHub Streak" height="150"/>
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobaret&layout=compact&theme=tokyonight" alt="Top Languages" height="130"/>
+    <img src="https://gh.hugobaret.re/stats/api/top-langs/?username=hugobaret&layout=compact&theme=tokyonight" alt="Top Languages" height="130"/>
   </p>
 </div>
 
