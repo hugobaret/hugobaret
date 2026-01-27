@@ -39,7 +39,7 @@
 
 <div align="center">
   <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://gh.hugobaret.re/stats/api?username=hugobaret&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+    <img src="https://gh.hugobaret.re/stats/api?username=hugobaret&&theme=tokyonight&show_icons=true" alt="GitHub Stats" height="150"/>
     <img src="https://gh.hugobaret.re/streak?user=hugobaret&theme=tokyonight" alt="GitHub Streak" height="150"/>
   </p>
   <p align="center">
