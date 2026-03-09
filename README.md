@@ -47,7 +47,6 @@
 
 </div>
 
----
 
 ## 🏆 Highlights
 
@@ -68,7 +67,6 @@
 </div>
 </div>
 
----
 
 ## 📊 GitHub Stats
 
