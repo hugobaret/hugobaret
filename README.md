@@ -51,6 +51,7 @@
 
 ## 🏆 Highlights
 
+<div align="center">
 <div style="display: flex; justify-content: center; gap: 35px; text-align: center;">
 <div>
   <h3>🎮 Gameplay Award</h3>
@@ -63,6 +64,7 @@
 <div>
   <h3>🎓 IT Expert Titre</h3>
   <p>EPITECH Paris<br/>(2020-2025)</p>
+</div>
 </div>
 </div>
 
