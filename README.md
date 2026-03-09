@@ -13,11 +13,17 @@
 
 ## 🚀 About Me
 
-- 🎓 Graduate of **EPITECH Paris**
+**🎓 Education**
+- **Expert in Information Technology**, EPITECH Paris (2020 - 2025)
+- **Game Development Micro-certification**, Keimyung University (2023 - 2024)
+
+**💼 Current Status**
+- 🔍 Open to **Job Opportunities**
+- 🌱 Currently learning **SolidStart** and **Java**
+
+**💻 What I Do**
 - 🎮 Passionate about **Game Development**
 - 💻 Full Stack Developer
-- 🌱 Currently learning **SolidStart** and **Java**
-- 💼 Looking for a **Job Opportunity**
 - 💬 Ask me about **Python, NestJS, or Game Development**
 
 ## 🛠️ Tech Stack
@@ -33,17 +39,41 @@
   <img src="https://skillicons.dev/icons?i=godot" />
   <h3>Tools & Others</h3>
   <img src="https://skillicons.dev/icons?i=git,github,docker,windows,linux,vscode,idea" />
+
+<br/>
+
 </div>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 40px; text-align: center;">
+    <div>
+      <h3>🎮 Gameplay Award</h3>
+      <p>Volcano Game Jam 2022<br/><a href="https://reboulenicolas.itch.io/sans-nom-le-chevalier">Play on itch.io</a></p>
+    </div>
+    <div>
+      <h3>🕹️ Game Dev Micro-cert</h3>
+      <p>Keimyung University<br/>(2023-2024)</p>
+    </div>
+    <div>
+      <h3>🎓 IT Expert Titre</h3>
+      <p>EPITECH Paris<br/>(2020-2025)</p>
+    </div>
+  </div>
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://gh.hugobaret.re/stats/api?username=hugobaret&&theme=tokyonight&show_icons=true" alt="GitHub Stats" height="150"/>
-    <img src="https://gh.hugobaret.re/streak?user=hugobaret&theme=tokyonight" alt="GitHub Streak" height="150"/>
-  </p>
+  <img src="https://gh.hugobaret.re/stats/api?username=hugobaret&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://gh.hugobaret.re/streak?user=hugobaret&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
   <p align="center">
-    <img src="https://gh.hugobaret.re/stats/api/top-langs/?username=hugobaret&layout=compact&theme=tokyonight" alt="Top Languages" height="130"/>
+    <img src="https://gh.hugobaret.re/stats/api/top-langs/?username=hugobaret&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="130"/>
   </p>
 </div>
 
@@ -65,8 +95,11 @@
 ## 🤝 Connect with Me
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/hugo-baret-833076374">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:bhugo.pro974@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://discord.com/users/494755469802471425">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
