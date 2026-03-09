@@ -19,12 +19,12 @@
 
 **💼 Current Status**
 - 🔍 Open to **Job Opportunities**
-- 🌱 Currently learning **SolidStart** and **Java**
+- 🌱 Currently learning **SolidStart**
 
 **💻 What I Do**
 - 🎮 Passionate about **Game Development**
 - 💻 Full Stack Developer
-- 💬 Ask me about **Python, NestJS, or Game Development**
+- 💬 Ask me about **SolidJs, NestJS, or Game Development**
 
 ## 🛠️ Tech Stack
 
