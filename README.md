@@ -29,6 +29,12 @@
 - 💻 Full Stack Developer
 - 💬 Ask me about **SolidJs, NestJS, or Game Development**
 
+**🏆 Achievements**
+
+- 🎮 **Gameplay Award** - Volcano Game Jam 2022 ([Play on itch.io](https://reboulenicolas.itch.io/sans-nom-le-chevalier))
+- 🕹️ **Game Dev Micro-certification** - Keimyung University (2023-2024)
+- 🎓 **IT Expert Titre** - EPITECH Paris (2020-2025)
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -46,27 +52,6 @@
 <br/>
 
 </div>
-
-
-## 🏆 Highlights
-
-<div align="center">
-<div style="display: flex; justify-content: center; gap: 35px; text-align: center;">
-<div>
-  <h3>🎮 Gameplay Award</h3>
-  <p>Volcano Game Jam 2022<br/><a href="https://reboulenicolas.itch.io/sans-nom-le-chevalier">Play on itch.io</a></p>
-</div>
-<div>
-  <h3>🕹️ Game Dev Micro-cert</h3>
-  <p>Keimyung University<br/>(2023-2024)</p>
-</div>
-<div>
-  <h3>🎓 IT Expert Titre</h3>
-  <p>EPITECH Paris<br/>(2020-2025)</p>
-</div>
-</div>
-</div>
-
 
 ## 📊 GitHub Stats
 
