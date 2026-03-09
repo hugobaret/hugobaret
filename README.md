@@ -14,14 +14,17 @@
 ## 🚀 About Me
 
 **🎓 Education**
+
 - **Expert in Information Technology**, EPITECH Paris (2020 - 2025)
 - **Game Development Micro-certification**, Keimyung University (2023 - 2024)
 
 **💼 Current Status**
+
 - 🔍 Open to **Job Opportunities**
 - 🌱 Currently learning **SolidStart**
 
 **💻 What I Do**
+
 - 🎮 Passionate about **Game Development**
 - 💻 Full Stack Developer
 - 💬 Ask me about **SolidJs, NestJS, or Game Development**
@@ -48,30 +51,28 @@
 
 ## 🏆 Highlights
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 35px; text-align: center;">
-    <div>
-      <h3>🎮 Gameplay Award</h3>
-      <p>Volcano Game Jam 2022<br/><a href="https://reboulenicolas.itch.io/sans-nom-le-chevalier">Play on itch.io</a></p>
-    </div>
-    <div>
-      <h3>🕹️ Game Dev Micro-cert</h3>
-      <p>Keimyung University<br/>(2023-2024)</p>
-    </div>
-    <div>
-      <h3>🎓 IT Expert Titre</h3>
-      <p>EPITECH Paris<br/>(2020-2025)</p>
-    </div>
-  </div>
+<div style="display: flex; justify-content: center; gap: 35px; text-align: center;">
+<div>
+  <h3>🎮 Gameplay Award</h3>
+  <p>Volcano Game Jam 2022<br/><a href="https://reboulenicolas.itch.io/sans-nom-le-chevalier">Play on itch.io</a></p>
+</div>
+<div>
+  <h3>🕹️ Game Dev Micro-cert</h3>
+  <p>Keimyung University<br/>(2023-2024)</p>
+</div>
+<div>
+  <h3>🎓 IT Expert Titre</h3>
+  <p>EPITECH Paris<br/>(2020-2025)</p>
+</div>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://gh.hugobaret.re/stats/api?username=hugobaret&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://gh.hugobaret.re/streak?user=hugobaret&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+<div align="center" style="width: 100%;">
+  <img src="https://gh.hugobaret.re/stats/api?username=hugobaret&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" height="130"/>
+  <img src="https://gh.hugobaret.re/streak?user=hugobaret&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="130"/>
   <p align="center">
     <img src="https://gh.hugobaret.re/stats/api/top-langs/?username=hugobaret&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="130"/>
   </p>
