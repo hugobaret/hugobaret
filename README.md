@@ -49,7 +49,7 @@
 ## 🏆 Highlights
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 40px; text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 35px; text-align: center;">
     <div>
       <h3>🎮 Gameplay Award</h3>
       <p>Volcano Game Jam 2022<br/><a href="https://reboulenicolas.itch.io/sans-nom-le-chevalier">Play on itch.io</a></p>
