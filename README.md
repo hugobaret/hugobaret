@@ -67,7 +67,7 @@
 
 <div align="center">
     <img
-    src="https://gh.hugobaret.re/trophy/?username=hugobaret&theme=tokyonight&no-frame=true&row=1&column=7"
+    src="https://gh.hugobaret.re/trophy/?username=hugobaret&theme=tokyonight&no-frame=true&row=1&column=7&rank=-%3F"
     alt="GitHub Trophies"
   />
 </div>
